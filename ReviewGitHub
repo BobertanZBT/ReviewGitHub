@@ -1,0 +1,32 @@
+gitHub是个人或公司项目代码管理的工具
+基本概念   Respository  仓库  
+          Star      收藏
+          Fork 克隆/复制/分支
+          Pull request  PR 发送修改后的文件
+          watch   关注
+          issue  事务卡片/问题
+ github主页  仓库主页  个人主页  仓库管理
+ 创建仓库/项目
+ 安装和使用
+ 基本工作流程
+        工作区域：  仓库   暂存区  工作区
+        工作区-------->暂存区   git status     git add 文件名
+        暂存区-------->仓库     git status     git commit -m '提交描述'
+        
+        新建文件提交到仓库
+                 创建/修改文件   touch/vi 文件名
+                 工作区-------->暂存区   git status     git add 文件名
+                 暂存区-------->仓库     git status     git commit -m '提交描述'
+                 删除文件
+                    rm -rf 文件名。。。。
+        远程操作仓库
+        
+        克隆
+            git clone  仓库名
+            修改文件之后
+            git push
+            
+    个人站点/项目站点        
+            
+                    
+          
